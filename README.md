@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **ivonexauce/ivonexauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -35,4 +34,3 @@ Designing secure, intelligent, and sustainable architectures that integrate Arti
 ## 🚀 Mission
 
 Engineering trust, intelligence, and sustainability into next-generation digital ecosystems.
--->
