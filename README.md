@@ -1,9 +1,3 @@
-## Hi there 👋
-
-**ivonexauce/ivonexauce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 # 👋 About Me
 
 **Blockchain Security & Privacy Architect | AI & Blockchain Researcher | Computational Nanoscience | Data-Centric IoT & Smart Enterprise Systems**
