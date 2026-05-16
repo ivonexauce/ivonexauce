@@ -1,30 +1,57 @@
 # 👋 About Me
 
-**Blockchain Security & Privacy Architect | AI & Blockchain Researcher | Computational Nanoscience | Data-Centric IoT & Smart Enterprise Systems**
+**Deep-Tech Systems Architect & Innovation Strategist**  
+Founder & CEO of :contentReference[oaicite:0]{index=0} | President, Congolese Community of Bangalore  
 
-Designing secure, intelligent, and sustainable architectures that integrate Artificial Intelligence, Blockchain, and distributed systems — from nano-scale modeling to enterprise-scale infrastructure.
+Designing intelligent, secure, and sustainable digital ecosystems powered by Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and data-centric enterprise architectures.
+
+Bridging deep-tech research, enterprise innovation, and scalable system engineering — from nano-scale computational modeling and AI-driven cybersecurity to smart enterprise infrastructure and next-generation decentralized systems.
 
 ---
 
-## 🔬 Focus Areas
+# 🔬 Core Focus Areas
 
-- Data-Centric Blockchain Security  
-- AI-Driven System Architecture  
-- Computational Modeling  
-- Secure IoT–Blockchain Integration  
+- AI-Driven Enterprise Systems  
+- Blockchain Security & Privacy Engineering  
+- Computational Nanoscience & Modeling  
+- Data-Centric Architecture for IoT  
+- Deep-Tech Innovation Strategy  
 - Sustainable Smart Enterprise Systems  
+- Distributed & Intelligent Infrastructure  
+- Cybersecurity & Secure Digital Ecosystems  
 
 ---
 
-## 💻 Core Stack
+# 💻 Technology Stack
 
-**Languages:** Python, Solidity, JavaScript, TypeScript, R  
-**AI & Data:** Machine Learning, Data Science, Analytics  
-**Blockchain:** Web3, Chainlink, Polygon  
-**Databases & Cloud:** PostgreSQL, SQL Server, Microsoft Azure  
+### Languages
+Python • Rust • Solidity • Vyper • JavaScript • TypeScript • R • SQL
+
+### AI & Data
+Machine Learning • Data Analytics • Data-Centric AI • Intelligent Automation • Predictive Systems
+
+### Blockchain & Web3
+Web3 • Smart Contracts • Chainlink • Polygon • Decentralized Systems
+
+### Cloud & Infrastructure
+Microsoft Azure • PostgreSQL • SQL Server • Docker • Distributed Systems
 
 ---
 
-## 🚀 Mission
+# 🚀 Current Mission
 
-Engineering trust, intelligence, and sustainability into next-generation digital ecosystems.
+Building secure, intelligent, and scalable technologies that accelerate digital transformation across enterprises, smart infrastructures, and emerging innovation ecosystems.
+
+Focused on the convergence of:
+- Artificial Intelligence
+- Blockchain Systems
+- Computational Nanoscience
+- IoT & Smart Infrastructure
+- Sustainable Enterprise Technologies
+- Advanced Cybersecurity
+
+---
+
+# 🌍 Vision
+
+To architect transformative deep-tech ecosystems that empower businesses, communities, and future digital economies through innovation, security, and sustainability.
