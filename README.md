@@ -1,11 +1,14 @@
-# 👋 About Me
+# 👋 Deep-Tech Systems Architect
+
+Building next-generation intelligent systems at the intersection of Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and Secure Enterprise Architectures.
 
 **Deep-Tech Systems Architect & Innovation Strategist**  
 Founder & CEO of UMBA Consulting Engineers | President, Congolese Community of Bangalore  
 
-Designing intelligent, secure, and sustainable digital ecosystems powered by Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and data-centric enterprise architectures.
+---
 
-Bridging deep-tech research, enterprise innovation, and scalable system engineering — from nano-scale computational modeling and AI-driven cybersecurity to smart enterprise infrastructure and next-generation decentralized systems.
+📧 Contact: umbayanga6bio@gmail.com  
+🌐 Website: https://umbaconsulting.com  
 
 ---
 
@@ -24,7 +27,7 @@ Bridging deep-tech research, enterprise innovation, and scalable system engineer
 
 # 💻 Technology Stack
 
-### Languages
+### Programming Languages
 Python • Rust • Solidity • Vyper • JavaScript • TypeScript • R • SQL
 
 ### AI & Data
@@ -34,24 +37,26 @@ Machine Learning • Data Analytics • Data-Centric AI • Intelligent Automati
 Web3 • Smart Contracts • Chainlink • Polygon • Decentralized Systems
 
 ### Cloud & Infrastructure
-Microsoft Azure • PostgreSQL • SQL Server • Docker • Distributed Systems
+AWS • Microsoft Azure • Google Cloud Platform • Docker • Kubernetes • Terraform • Distributed Systems  
 
 ---
 
 # 🚀 Current Mission
 
-Building secure, intelligent, and scalable technologies that accelerate digital transformation across enterprises, smart infrastructures, and emerging innovation ecosystems.
+To design and build secure, intelligent, and scalable technologies that drive digital transformation across enterprises, smart infrastructures, and emerging innovation ecosystems.
 
-Focused on the convergence of:
-- Artificial Intelligence
-- Blockchain Systems
-- Computational Nanoscience
-- IoT & Smart Infrastructure
-- Sustainable Enterprise Technologies
-- Advanced Cybersecurity
+---
+
+# 🧠 Engineering Philosophy
+
+- Systems before features  
+- Security by design  
+- Intelligence through data  
+- Scalability by architecture  
+- Sustainability through innovation  
 
 ---
 
 # 🌍 Vision
 
-To architect transformative deep-tech ecosystems that empower businesses, communities, and future digital economies through innovation, security, and sustainability.
+To architect transformative deep-tech ecosystems that empower businesses, communities, and future digital economies through innovation, intelligence, and trust.
