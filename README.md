@@ -1,7 +1,7 @@
 # 👋 About Me
 
 **Deep-Tech Systems Architect & Innovation Strategist**  
-Founder & CEO of :contentReference[oaicite:0]{index=0} | President, Congolese Community of Bangalore  
+Founder & CEO of UMBA Consulting Engineers | President, Congolese Community of Bangalore  
 
 Designing intelligent, secure, and sustainable digital ecosystems powered by Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and data-centric enterprise architectures.
 
