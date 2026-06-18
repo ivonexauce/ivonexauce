@@ -1,4 +1,4 @@
-# 👋 Deep-Tech Systems Architect
+# 👋 Deep-Tech Systems Architect & Innovation Strategist
 
 Building next-generation intelligent systems at the intersection of Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and Secure Enterprise Architectures.
 
