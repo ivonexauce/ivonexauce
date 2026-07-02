@@ -2,8 +2,8 @@
 
 Building next-generation intelligent systems at the intersection of Artificial Intelligence, Blockchain, IoT, Computational Nanoscience, and Secure Enterprise Architectures.
 
-**Deep-Tech Systems Architect & Innovation Strategist**  
-Founder & CEO of UMBA Consulting Engineers | President, Congolese Community of Bangalore  
+**Deep-Tech Systems Architect & Innovation Strategist**
+Founder & CEO, UMBA Consulting Engineers | Assistant Professor | Former President, Congolese Community of Bangalore
 
 ---
 
